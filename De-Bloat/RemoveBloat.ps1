@@ -81,7 +81,7 @@ $WhitelistedApps = @(
     'Dell Display Manager 2.1',
     'Dell Display Manager 2.2',
     'Dell Peripheral Manager',
-    'MSTeams',
+     #'MSTeams',
     'Microsoft.Paint',
     'Microsoft.OutlookForWindows',
     'Microsoft.WindowsTerminal',
@@ -268,7 +268,7 @@ $Bloatware = @(
 #"Microsoft.WindowsSoundRecorder"
 #"Microsoft.YourPhone"
 #"Microsoft.Todos"
-#"MSTeams"
+"MSTeams"
 #"Microsoft.PowerAutomateDesktop"
 #"MicrosoftWindows.Client.WebExperience"
 )
