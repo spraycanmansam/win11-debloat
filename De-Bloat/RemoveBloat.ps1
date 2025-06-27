@@ -224,6 +224,7 @@ $Bloatware = @(
 "Microsoft.Office.OneNote"
 "Microsoft.Office.Sway"
 "Microsoft.OneConnect"
+"Microsoft.OutlookForWindows"
 #"Microsoft.People"
 #"Microsoft.PowerAutomateDesktop"
 #"Microsoft.PowerAutomateDesktopCopilotPlugin"
