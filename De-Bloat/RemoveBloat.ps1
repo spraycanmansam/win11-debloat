@@ -83,7 +83,7 @@ $WhitelistedApps = @(
     'Dell Peripheral Manager',
      #'MSTeams',
     'Microsoft.Paint',
-    'Microsoft.OutlookForWindows',
+     #'Microsoft.OutlookForWindows',
     'Microsoft.WindowsTerminal',
     'Microsoft.MicrosoftEdge.Stable'
     'Microsoft.MPEG2VideoExtension', 
